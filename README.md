@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunnysumpter
-- 👀 I’m interested in cloud architecture cloud devops cloud project management cloud security
-- 🌱 I’m currently learning about cloud based infrastructure (PaaS, IaaS, SaaS, Python, Java, C#)
-- 💞️ I’m looking to collaborate on cloud based projects
+- 👀 I’m interested in cloud and ai
+- 🌱 I’m currently learning about cloud based infrastructure Python, Java, C#
+- 💞️ I’m looking to collaborate on cloud based projects and ai, new tech
 - 📫 How to reach me ProfessorSumpter@gmail.com
 
 <!---
